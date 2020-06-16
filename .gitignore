@@ -1,0 +1,4 @@
+# Project exclude paths
+/gmall-parent/gmall-interface/target/
+/gmall-parent/order-service-consumer/target/
+/gmall-parent/user-service-provider/target/
